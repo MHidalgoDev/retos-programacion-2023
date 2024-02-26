@@ -2,7 +2,6 @@ class App{
 
     constructor(){
          this.numeros = []
-
          this.iniciar()
     }
 
@@ -20,11 +19,6 @@ class App{
             console.log(this.numeros[i])    
         }
         
-    }
-
-    localizarMultiplosdeTres(array){
-
-
     }
 }
 
